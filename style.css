@@ -9,7 +9,7 @@
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background: url(https://i.imgur.com/uVLxtrP.jpg);
+    background: #129bd1;
     background-repeat: no-repeat;
     background-size: cover;
     /* background: #ED213A;
